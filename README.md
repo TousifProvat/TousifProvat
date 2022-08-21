@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://tousif-ahmed.netlify.app/](https://tousif-ahmed.netlify.app/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/TousifProvat)
 
 - 💬 Ask me about **react, javascript, nextJs**
 
