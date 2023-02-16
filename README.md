@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Cave.Blog](https://cave-gules.vercel.app/)
 
-- 🌱 I’m currently learning **DSA and NextJs**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TousifProvat)
 
-- 💬 Ask me about **react, javascript, nextJs**
+- 💬 Ask me about **Javascript, React, NodeJS**
 
 - 📫 How to reach me **tousifprovat15@gmail.com**
 
