@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tousif Ahmed</h1>
 <h3 align="center">A full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Cave.Blog](https://cave-gules.vercel.app/)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TousifProvat)
 
 - 💬 Ask me about **Javascript, React, NodeJS**
